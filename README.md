@@ -9,12 +9,12 @@ This function named "_printf()" imitates the actual "printf()" command located i
 ## Collaborators
 This project is a two-man team of team members:
 - [Markbaro](https://github.com/salmaQueen).
-- [Brian Mwangi](https://github.com/bigavrii).
+- [Brian-Karimi](https://github.com/Brian-Karimi).
 
 
 
 
-### Authors Markbaro  and  Brian
+### Authors Markbaro  and  Brian-Karimi
 
 ------------
 
