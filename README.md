@@ -8,14 +8,13 @@ This function named "_printf()" imitates the actual "printf()" command located i
 
 ## Collaborators
 This project is a two-man team of team members:
-- [Salma Mohamed](https://github.com/salmaQueen).
-- [Iroka Ugochukwu](https://github.com/bigavrii).
+- [Markbaro](https://github.com/salmaQueen).
+- [Brian Mwangi](https://github.com/bigavrii).
 
 
 
 
-### Authors
-Salma Mohumed and  Iroka Ugochukwu
+### Authors Markbaro  and  Brian
 
 ------------
 
@@ -79,4 +78,4 @@ d, i	The argument int is converted to a signed decimal notation. If precision is
 
 ### End
 
-salma & Iroka @ ALX software engineering programme 2023.
+Mark & Brian @ ALX software engineering programme 2023.
